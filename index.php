@@ -18,6 +18,6 @@
 		<label for="password">Password: </label><br>
 		<input type="password" id="password" name="password"><br>
 	</form>
-	<a href="register.php">Register</a>
+	<a href="register.php">Register111</a>
 </body>
 </html>
